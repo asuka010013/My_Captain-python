@@ -1,3 +1,0 @@
-Filename = input( Enter a Filename :)
-ext = Filename.split(".")[-1]
-print("The extension of the given file is :",ext)
